@@ -71,6 +71,7 @@ All three datasets are remapped to the same label convention (0 = Real, 1 = Fake
 
 Here are the links to the three used datasets for this project: 
 Ahmed, H., Traore, I., & Saad, S. (2017). ISOT Fake News Dataset… University of Victoria. 
+
 https://onlineacademiccommunity.uvic.ca/isot/2022/11/27/fake-news-detection-datasets/
 
 Gruensteidl, M. N., & Kirrane, S. (2025). EU_mix evaluation dataset (EMNAD subset) [Data set]. XAI-IDD-Resources, GitHub. 
