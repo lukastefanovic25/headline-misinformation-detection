@@ -69,6 +69,16 @@ Datasets/
 
 All three datasets are remapped to the same label convention (0 = Real, 1 = Fake) in Section 2 before any cleaning happens.
 
+Here are the links to the three used datasets for this project: 
+Ahmed, H., Traore, I., & Saad, S. (2017). ISOT Fake News Dataset… University of Victoria. 
+https://onlineacademiccommunity.uvic.ca/isot/2022/11/27/fake-news-detection-datasets/
+
+Gruensteidl, M. N., & Kirrane, S. (2025). EU_mix evaluation dataset (EMNAD subset) [Data set]. XAI-IDD-Resources, GitHub. 
+https://github.com/mangrue/XAI-IDD-Resources/blob/main/DATASETS/FINAL_DATASETS/EU_FINAL_DATASETS/EU_mix_3_EMNAD_final.csv
+
+Verma, P. K., Agrawal, P., & Prodan, R. (2021). WELFake dataset for fake news detection in text data [Data set]. Zenodo. 
+https://doi.org/10.5281/zenodo.4561253
+
 ## Prerequisites
 
 - Python 3.9 (the notebook was developed and pinned against 3.9.6)
